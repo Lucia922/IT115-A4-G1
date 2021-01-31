@@ -5,11 +5,11 @@ This group project is to create a web page in order to practice our Github skill
       
 ## Contributors List
 
-1.Diego Cano (Coding)
+1.Diego Cano (Develop)
 
 2.Jinhee Byoun (Team Lead / Project Management)
 
-3.John Jacobsen (Cording)
+3.John Jacobsen (Develop)
 
 4.Josie Cheung
 

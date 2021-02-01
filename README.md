@@ -11,7 +11,7 @@ This group project is to create a web page in order to practice our Github skill
 
 3.John Jacobsen (Develop)
 
-4.Josie Cheung
+4.Josie Cheung (Edit / Design)
 
 5.Shinyoung Jun (Design)
 

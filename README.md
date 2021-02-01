@@ -13,6 +13,6 @@ This group project is to create a web page in order to practice our Github skill
 
 4.Josie Cheung
 
-5.Shinyoung Jun
+5.Shinyoung Jun (Design)
 
 6.Wayne Journee (Research / Outline / Write)

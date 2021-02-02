@@ -1,0 +1,75 @@
+
+body{
+    margin-top: 80px;
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-bottom: 100px;
+}
+h1{
+    text-align: center;
+    border: 2px solid black;
+    text-shadow: gray 2px 3px;
+    padding: 30px;
+    font-weight: 800;
+    
+}
+
+body{
+    background-image: linear-gradient(to right, green,white,red);
+}
+
+.collosseum{
+    border-radius: 50%;
+    box-shadow: black 4px 4px;
+    margin-right: 500px;
+    width: 200px;
+    
+}
+
+.stanza{
+    text-align: center;
+    border-left: dotted gray 2px;
+    border-right: dotted gray 2px;
+    font-family: cursive;
+}
+
+.img2{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 180px;
+  box-shadow: black 4px 4px;
+    
+}
+
+.img3{
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     box-shadow: black 4px 4px;
+       
+   }
+
+   .img4{
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 400px;
+     box-shadow: black 4px 4px;
+   }
+
+   .img5{
+    display: block;
+     margin-left: auto;
+     margin-right: auto;  
+     box-shadow: black 4px 4px; 
+   }
+
+   footer{
+       padding-left: 740px;
+       padding-right: 20px;
+       text-align: right;
+       border-right: gray solid 2px;
+       
+   }
+

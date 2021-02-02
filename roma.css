@@ -65,11 +65,28 @@ body{
      box-shadow: black 4px 4px; 
    }
 
-   footer{
-       padding-left: 740px;
-       padding-right: 20px;
-       text-align: right;
-       border-right: gray solid 2px;
-       
-   }
+   footer {
+
+        padding-top: 20px;
+        padding-left: 340px;
+        text-align: left;
+        font-size: 16px
+    }
+
+    ul {
+        list-style-type: square;
+    }
+
+    ol {
+        list-style-type: upper-roman;
+        font-size: 25px;
+    }
+
+    h2 {
+        font-size: 25px;
+    }
+
+    p {
+        font-size: 16px;
+    }
 

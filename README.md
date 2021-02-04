@@ -7,7 +7,7 @@ This group project is to create a web page in order to practice our Github skill
 
 1.Diego Cano (Develop)
 
-2.Jinhee Byoun (Team Lead / Project Management)
+2.Jinhee Byoun (Team Lead / Project & Repo Management / Review )
 
 3.John Jacobsen (Develop)
 

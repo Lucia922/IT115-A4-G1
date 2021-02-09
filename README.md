@@ -1,7 +1,7 @@
 # IT115-A4-G1
 ## Project Introduction
 
-This group project is to create a web page in order to practice our Github skills. The topic of the Webpage is on Roman Vomitoriums, and the final page can be found at https://lucia922.github.io/IT115-A4-G1/
+This group project is to create a web page in order to practice our Github skills. The topic of the Webpage is "9 Strange and Gross Facts About Ancient Rome", and the final page can be found at https://lucia922.github.io/IT115-A4-G1/
       
 ## Contributors List
 
